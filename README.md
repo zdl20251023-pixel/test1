@@ -1,5 +1,2 @@
 # test1
-test
-hello world
-1234
-78
+github功能测试仓库
